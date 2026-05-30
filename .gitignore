@@ -1,0 +1,14 @@
+data/*
+*.pkl
+*.npy
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.wma
+*.aac
+*.m4a
+*.flac
+*.ogg
+*.wma
